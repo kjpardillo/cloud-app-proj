@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<project version="4">
+
+
+-<component name="ChangeListManager">
+
+<list name="Default Changelist" comment="" id="edcd670f-19ec-4254-affd-9157fd3f34de" default="true"/>
+
+<option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true"/>
+
+<option name="SHOW_DIALOG" value="false"/>
+
+<option name="HIGHLIGHT_CONFLICTS" value="true"/>
+
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+
+<option name="LAST_RESOLUTION" value="IGNORE"/>
+
+</component>
+
+<component name="ProjectId" id="1SVzvS6lYv6XTzykojNXm7BW5Ey"/>
+
+
+-<component name="PropertiesComponent">
+
+<property name="WebServerToolWindowFactoryState" value="false"/>
+
+</component>
+
+
+-<component name="RunDashboard">
+
+
+-<option name="ruleStates">
+
+
+-<list>
+
+
+-<RuleState>
+
+<option name="name" value="ConfigurationTypeDashboardGroupingRule"/>
+
+</RuleState>
+
+
+-<RuleState>
+
+<option name="name" value="StatusDashboardGroupingRule"/>
+
+</RuleState>
+
+</list>
+
+</option>
+
+</component>
+
+
+-<component name="RunManager">
+
+
+-<configuration name="index.js" working-dir="$PROJECT_DIR$" path-to-js-file="$PROJECT_DIR$/index.js" nameIsGenerated="true" temporary="true" type="NodeJSConfigurationType">
+
+<method v="2"/>
+
+</configuration>
+
+
+-<recent_temporary>
+
+
+-<list>
+
+<item itemvalue="Node.js.index.js"/>
+
+</list>
+
+</recent_temporary>
+
+</component>
+
+
+-<component name="SvnConfiguration">
+
+<configuration/>
+
+</component>
+
+
+-<component name="TaskManager">
+
+
+-<task id="Default" summary="Default task" active="true">
+
+<changelist name="Default Changelist" comment="" id="edcd670f-19ec-4254-affd-9157fd3f34de"/>
+
+<created>1571663780499</created>
+
+<option name="number" value="Default"/>
+
+<option name="presentableId" value="Default"/>
+
+<updated>1571663780499</updated>
+
+<workItem duration="3893000" from="1571663783453"/>
+
+<workItem duration="113000" from="1572268485993"/>
+
+</task>
+
+<servers/>
+
+</component>
+
+
+-<component name="TypeScriptGeneratedFilesManager">
+
+<option name="version" value="1"/>
+
+</component>
+
+</project>

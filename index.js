@@ -16,7 +16,7 @@ io.on('connection', function(socket){
     io.emit('chat message', '---' + socket.client.id + 'just left the room!');
   });
 });
-
+const port = 3000;
 http.listen(3000, function(){
   console.log('listening on *:3000');
 });
